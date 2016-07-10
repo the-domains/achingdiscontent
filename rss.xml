@@ -4,7 +4,7 @@
         <description><![CDATA[achingdiscontent]]></description>
         <link>http://achingdiscontent.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jul 2016 21:41:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2016 21:41:08 GMT</lastBuildDate>
         <atom:link href="http://achingdiscontent.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/260637a9-f027-4ef2-98ce-77e62e4e4132.jpg</link>
             <guid isPermaLink="false">5b07ec80-4576-4d41-a66b-3619d8bba6c3</guid>
             <pubDate>Sun, 10 Jul 2016 19:24:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/15056cb7-6950-495e-856f-fbb4fe90c60c.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/04e17eba-0bab-4049-8b12-4ea9dfd929b4.jpg</link>
-            <guid isPermaLink="false">d642d469-7a11-4b2f-bafd-bef26f35675d</guid>
-            <pubDate>Sun, 10 Jul 2016 19:24:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
