@@ -1,0 +1,14 @@
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#E3E4DE'
+    - '#ACACA2'
+    - '#BEBEB4'
+    - '#959D9F'
+  brandStrength: 1
+  lightness: 0.222223
+  rhythmicContrast: 0.009618
+  saturation: 0.181173
+layout_spectrum: 0.924342
+name: achingdiscontent
+typography_spectrum: 0.438322
