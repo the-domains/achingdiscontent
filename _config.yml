@@ -5,8 +5,8 @@ color:
     - '#ACACA2'
     - '#BEBEB4'
     - '#959D9F'
-  brandStrength: 1
-  lightness: 0.222223
+  brandStrength: 0.336349
+  lightness: 1
   rhythmicContrast: 0.009618
   saturation: 0.181173
 layout_spectrum: 0.924342
