@@ -1,3 +1,19 @@
+name: achingdiscontent
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.438322
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#FFFFFF'
@@ -7,8 +23,6 @@ color:
     - '#959D9F'
   brandStrength: 0.336349
   lightness: 1
-  rhythmicContrast: 0.009618
   saturation: 0.181173
-layout_spectrum: 0.208059
-name: achingdiscontent
-typography_spectrum: 0.438322
+  rhythmicContrast: 1
+purpose: []
