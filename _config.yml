@@ -21,8 +21,8 @@ color:
     - '#ACACA2'
     - '#BEBEB4'
     - '#959D9F'
-  brandStrength: 0.336349
+  brandStrength: 0
   lightness: 1
-  saturation: 0.181173
+  saturation: 0
   rhythmicContrast: 0
 purpose: []
