@@ -1,20 +1,4 @@
-name: achingdiscontent
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.5
-title: 'A D '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#B22234'
@@ -24,6 +8,12 @@ color:
     - '#DC99A1'
   brandStrength: 1
   lightness: 1
-  saturation: 1
   rhythmicContrast: 1
+  saturation: 1
+cta: {}
+layout_spectrum: 0.394737
+name: achingdiscontent
+opengraph: {}
 purpose: []
+title: 'A D '
+typography_spectrum: 0.5
