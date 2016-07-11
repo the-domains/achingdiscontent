@@ -1,29 +1,19 @@
-name: achingdiscontent
-favicon: null
-layout_spectrum: 0.65248
-typography_spectrum: 0.5
-title: 'A D '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#ffffff'
-    - '#8d8d8d'
-    - '#dfdfdf'
-    - '#985858'
-    - '#b4b4b4'
-  brandStrength: 0.0625
+    - '#B22234'
+    - '#FFFFFF'
+    - '#3C3B6E'
+    - '#0E0E0E'
+    - '#DC99A1'
+  brandStrength: 1
   lightness: 1
-  saturation: 0
   rhythmicContrast: 0
+  saturation: 0
+cta: {}
+layout_spectrum: 0.65248
+name: achingdiscontent
+opengraph: {}
 purpose: []
+title: 'A D '
+typography_spectrum: 0.5
