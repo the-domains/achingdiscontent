@@ -9,9 +9,9 @@ color:
   brandStrength: 1
   lightness: 1
   rhythmicContrast: 0.505757
-  saturation: 0.494243
+  saturation: 1
 cta: {}
-layout_spectrum: 0.65248
+layout_spectrum: 1
 name: achingdiscontent
 opengraph: {}
 purpose: []
