@@ -8,8 +8,8 @@ color:
     - '#DC99A1'
   brandStrength: 1
   lightness: 1
-  rhythmicContrast: 0
-  saturation: 0
+  rhythmicContrast: 0.505757
+  saturation: 0.494243
 cta: {}
 layout_spectrum: 0.65248
 name: achingdiscontent
