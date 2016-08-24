@@ -1,20 +1,11 @@
 name: achingdiscontent
-favicon: null
 layout_spectrum: 0.394737
 typography_spectrum: 0.5
-title: 'A c h i n g    D i s c o n t e n t '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#B22234'
@@ -27,3 +18,10 @@ color:
   saturation: 1
   rhythmicContrast: 1
 purpose: []
+title: 'A c h i n g    D i s c o n t e n t '
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
